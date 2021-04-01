@@ -1,0 +1,20 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/VideoResolution/VideoResolution.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/VideoResolution/VideoResolution.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/GameConsoleLibrary/GameConsoleLibrary.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/GameConsoleLibrary/GameConsoleLibrary.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/GameShop/GameShop.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/GameShop/GameShop.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/MediaFormat/MediaFormat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/MediaFormat/MediaFormat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/Game/Game.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/Game/Game.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/GameConsole/GameConsole.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/src/main/scala/com/knoldus/QuestionOne/GameConsole/GameConsole.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 6 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 8 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/Knol_Assignments/OOPs_Assignment_AI_ML/target[0m

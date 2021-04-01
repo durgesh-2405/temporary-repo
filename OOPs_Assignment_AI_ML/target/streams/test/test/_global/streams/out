@@ -1,0 +1,42 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.GamesConsolesTest.GameConsolesTest, org.scalatest.tools.Framework$$anon$1@465e5c1e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.GamesTest.GameTest, org.scalatest.tools.Framework$$anon$1@465e5c1e, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGameConsolesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misString method for console one[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misString method for console two[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misString method for console three[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misString method for console FOur[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misString method for console one[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGameTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid and support consoleOne will not support other consoles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameTwo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid and support consoleOne and consoleTwo will not support other consoles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameThree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid and support consoleThree and consoleFour will not support other consoles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameFour[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be valid and support all consoles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgameOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid if it support other consoles except consoleOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtoString method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should valid for gameOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtoString method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should valid for gameTwo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtoString method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should valid for gameThree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtoString method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should valid for gameFour[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtoString method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid for gameOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 306 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.GamesTest.GameTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.GamesConsolesTest.GameConsolesTest[0m

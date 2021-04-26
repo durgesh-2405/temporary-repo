@@ -340,5 +340,39 @@ if __name__ == "__main__":
 # In[ ]:
 
 
+# function to count the Even and Odd numbers present in the list.
+def countOfEvenAndOdd(inputList):
+    
+    # filtering the list of even numbers from the input list using lambda function.
+    countOfEven = len(list(filter(lambda element: (element % 2 == 0),inputList)))
+    
+    # filtering the list of odd numbers from the input list using lambda function.
+    countOfOdd = len(list(filter(lambda element: (element % 2 != 0),inputList)))
+    
+    # returning a tuple consisting of count of Even and Odd number in the input list.
+    return countOfEven, countOfOdd
+
+# Main Function
+if __name__ == "__main__":
+    
+    # taking list as a input from the user.
+    inputList= list(map(int,input().split( )))
+    
+    # checking the input list is valid or not.
+    # if the length of the list is 0 then it will be in valid.
+    if(len(inputList)==0):
+        print("List is empty")
+        
+    # if the length of the list is valid.
+    else:
+        
+        # calling the function countOfEvenAndOdd.
+        countOfEven, countOfOdd = countOfEvenAndOdd(inputList)
+        
+        # displaying the output.
+        print("The count of Even numbers in the list is: ", countOfEven)
+        print("The count of Odd numbers in the list is: ", countOfOdd)
+
+
 
 
